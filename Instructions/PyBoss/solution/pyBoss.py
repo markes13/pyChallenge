@@ -30,11 +30,16 @@ with open(file_to_load, 'r') as f:
 # open again to pull employee data, row by row
 with open(file_to_load) as employee_data:
 
+	header_output = (
+		f"First Name, Last Name, Emp ID, DOB, SSN, State\n"
+	)
+
 	reader = csv.DictReader(employee_data)
 
 	with open(file_to_output, "w") as txt_file:
 
 		txt_file.write(header_output)
+		print(header_output)
 
 		for row in reader:
 

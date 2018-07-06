@@ -1,7 +1,7 @@
 import os
 import csv
-file_to_load = os.path.join('../raw_data','budget_data_1.csv')
-file_to_output = os.path.join('../analysis', 'budget_analysis_1.txt')
+file_to_load = os.path.join('../raw_data','budget_data_2.csv')
+file_to_output = os.path.join('../analysis', 'budget_analysis_2.txt')
 
 total_months = 0
 total_revenue = 0

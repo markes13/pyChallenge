@@ -1,4 +1,4 @@
-Emp ID, Name, DOB, SSN, State
+First Name, Last Name, Emp ID, DOB, SSN, State
 Sarah, Simpson, 214, 12/04/85, ***-**-8166, FL
 Samantha, Lara, 15, 09/08/93, ***-**-7526, CO
 Stacy, Charles, 411, 12/20/57, ***-**-8526, PA

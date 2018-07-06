@@ -1,0 +1,8 @@
+
+------------------------------------------------
+Total months: 86
+Total revenue: $36973911
+Average monthly revenue change: $429929
+Greatest revenue increase: $1645140, Jul-2014
+Greatest revenue decrease: $-1947745, Jun-2014
+------------------------------------------------
